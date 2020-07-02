@@ -8,7 +8,6 @@ var df_census_json = spark.read.json("F:/Chapter06/Data/Census.json")
 df_census_csv.show()
 df_census_json.show()
 
-
 // Writing to AVRO format
 
 // Using CSV Data frame
