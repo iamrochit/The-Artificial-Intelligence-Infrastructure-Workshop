@@ -44,7 +44,6 @@ def time[A](f: => A) = {
   }
 
 
-
 // Query SET 1
 // Count query within time function
 
