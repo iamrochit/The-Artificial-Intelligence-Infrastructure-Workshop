@@ -1,6 +1,7 @@
 create database fashionmart;
 use fashionmart;
 
+
 CREATE TABLE products (p_id INT,
 p_name TEXT,
 p_buy_price FLOAT,
