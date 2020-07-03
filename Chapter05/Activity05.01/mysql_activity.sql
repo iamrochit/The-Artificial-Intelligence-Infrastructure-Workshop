@@ -63,7 +63,6 @@ FOREIGN KEY (inv_status_id )
 );
 
 
-
 -- Loading data
 
 INSERT INTO manufacturer(m_id, m_name, m_created_at)
