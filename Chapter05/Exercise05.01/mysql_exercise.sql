@@ -65,7 +65,6 @@ JOIN
 	 GROUP BY sales.p_id) AS sales_subq
 ON products.p_id=sales_subq.p_id;
 
-
 -- left outer join
 SELECT
     products.p_name AS product_name,
