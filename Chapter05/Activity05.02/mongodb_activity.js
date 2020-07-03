@@ -82,7 +82,7 @@ products=[{
   ]
 }
 ]
-
+ 
 #---Insert data
 db.products.insert(products);
 
