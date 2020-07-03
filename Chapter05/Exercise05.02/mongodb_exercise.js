@@ -1,4 +1,5 @@
 // Selecting and using database
+
 show dbs
 use fashionmart
 
