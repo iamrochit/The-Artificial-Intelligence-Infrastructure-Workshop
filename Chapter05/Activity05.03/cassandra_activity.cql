@@ -1,5 +1,6 @@
 use fashionmart;
 
+
 #---Create COLUMNFAMILY
 CREATE COLUMNFAMILY feedback_logs(
 fl_id int PRIMARY KEY,
