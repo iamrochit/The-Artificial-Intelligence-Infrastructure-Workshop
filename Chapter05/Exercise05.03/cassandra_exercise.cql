@@ -1,7 +1,7 @@
 #-Create KEYSPACE
 CREATE KEYSPACE fashionmart
 WITH replication = {'class':'SimpleStrategy', 'replication_factor' : 3};
-
+ 
 use fashionmart;
 
 #--Create COLUMNFAMILY
